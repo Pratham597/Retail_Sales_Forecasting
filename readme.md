@@ -1062,3 +1062,5 @@ This module demonstrates a complete regression pipeline:
 * Business-relevant insights
 
 ---
+
+## Authors
